@@ -1,0 +1,67 @@
+*{
+    background-color: black;
+}
+
+.logo-1{
+    display: block;
+    position: relative;
+    left: 480px;
+    padding-bottom: 30px;
+}
+
+.logo-1 img{
+    border: solid 5px orangered;
+    border-radius: 50px;
+    
+    
+}
+
+.boul h1{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-left: 25px;
+    font-size: 40px;
+}
+.boul li{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-top: 10px;
+    font-size: 30px;
+}   
+
+.right li{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-top: 10px;
+    font-size: 30px;
+}
+.right h1{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+
+
+.left{
+    float: left;
+    width: 50%;
+}
+
+
+
+.right{
+    float: right;
+    width: 50%;
+}
+
+.footer{
+    padding-top: 30px;
+    width: 100%;
+}
+
+.footer img{
+    position: relative;
+    right: 200px;
+}
