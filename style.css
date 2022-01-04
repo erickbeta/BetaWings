@@ -65,3 +65,17 @@
     position: relative;
     right: 200px;
 }
+
+.footer h1{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+.footer{
+    font-family: 'Permanent Marker', cursive;
+    color: orangered; 
+    padding-top: 10px;
+    font-size: 30px;
+}
